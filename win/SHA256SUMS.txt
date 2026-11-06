@@ -1,0 +1,2 @@
+1f137d4cba45eaecde499fccbb63e01e6266cd5d01ccbff8ee93734db9c9922a *KnowledgeUniverse_1.0.0_x64-setup.exe
+0e73b1b135a3df2d2237d01692010032d70bff320777a1ee0b054ebb2478c201 *KnowledgeUniverse.exe
